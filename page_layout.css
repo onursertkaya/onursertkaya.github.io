@@ -1,0 +1,48 @@
+html{
+	height: 100%;
+}
+
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 12px;
+	height: 100%;
+}
+
+button.link{
+	background: none;
+	border: none;
+	outline: none;
+	font-size: 14px;
+}
+
+.banner{
+	text-align: center;
+	font-family: "Courier", Helvetica, sans-serif;
+	font-size: 36px;
+	height: 7%;
+}
+
+.navBar{
+    text-align: center;
+    margin-top: 0px;
+	height: 3%;
+}
+
+.wrap {
+    max-width: 40em;
+    margin: 0 auto;
+    position: relative;
+    min-height: 100%;
+    width: 70%;
+    height: 90%;
+}
+
+.centeredContent {
+    margin: 0 auto;
+    text-align:justify;
+    position: absolute;
+    border-right-width: 35px;
+    visibility: hidden;
+    height: 100%;
+    width: 100%;
+}
