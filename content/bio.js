@@ -17,7 +17,7 @@ document.write(`
        I was responsible for development and maintenance of a face recognition service
        software at Artge Technologies, Istanbul, Turkey. </p>
 
-    <P>Both of these roles involve deployment of trained neural network models to
+    <p>Both of these roles involve deployment of trained neural network models to
        production, and trainings itself in some cases. Hence I have experience in software
        design and implementation as well as algorithm prototyping in the scope of deep
        learning applications.</p>
